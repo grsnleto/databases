@@ -1,0 +1,10 @@
+[2021-01-22 21:30:06] [info]  [ 3860] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2021-01-22 21:30:12] [info]  [ 3860] Running Service 'neo4j'...
+[2021-01-22 21:30:13] [error] [ 3860] StartServiceCtrlDispatcher for 'neo4j' failed.
+[2021-01-22 21:30:14] [error] [ 3860] A system shutdown is in progress.
+[2021-01-22 21:30:15] [error] [ 3860] Apache Commons Daemon procrun failed with exit value: 4 (failed to run service).
+[2021-01-22 21:30:18] [error] [ 3860] A system shutdown is in progress.
+[2021-01-22 21:31:50] [info]  [ 3612] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2021-01-22 21:32:07] [info]  [ 3612] Running Service 'neo4j'...
+[2021-01-22 21:32:07] [info]  [ 5092] Starting service...
+[2021-01-22 21:32:09] [info]  [ 5092] Service started in 1759 milliseconds.

@@ -1,0 +1,138 @@
+2020-04-14 09:15:00.379+0000 INFO  Assigned admin role to user 'neo4j'.
+2020-04-14 09:47:54.244+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:47:54.245+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:47:54.246+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:47:54.246+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:47:54.247+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:47:55.796+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:47:57.558+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:01.407+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:01.781+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:06.275+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:07.604+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:08.445+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:10.523+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:12.728+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:14.539+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:16.028+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:20.855+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:21.815+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:22.543+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:26.455+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:26.973+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:27.538+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:28.981+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:31.500+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:48:33.041+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:49:02.647+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:49:53.862+0000 ERROR []: failed to log in: invalid principal or credentials
+2020-04-14 09:51:26.749+0000 ERROR []: failed to log in: invalid principal or credentials
+2020-04-14 09:54:57.356+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:54:59.910+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:55:01.888+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:55:03.357+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:55:04.520+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:55:05.325+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:55:06.238+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:55:09.600+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:55:10.554+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:55:35.180+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:55:36.550+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:55:37.948+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:55:40.205+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:55:40.579+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:55:41.233+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:55:42.361+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:55:43.331+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:55:44.746+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:56:36.016+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:56:36.644+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:56:46.610+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:56:49.758+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:56:50.166+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:56:51.010+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:56:51.991+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:56:52.912+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:56:53.661+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:56:54.010+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:56:55.419+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:56:56.450+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:56:57.340+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:56:57.964+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:56:59.756+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:57:01.140+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:57:01.548+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:57:02.454+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:57:03.142+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:57:04.056+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:57:05.735+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:57:06.839+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:57:08.509+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:57:09.192+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:57:10.117+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-14 09:57:40.015+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 02:09:58.073+0000 ERROR [admin]: failed to log in: invalid principal or credentials
+2020-04-15 04:44:27.202+0000 ERROR []: failed to log in: invalid principal or credentials
+2020-04-15 04:49:10.491+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:13.367+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:15.696+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:17.409+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:18.312+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:18.705+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:19.870+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:20.347+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:21.189+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:21.641+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:26.252+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:27.110+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:29.387+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:31.853+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:32.216+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:32.714+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:33.406+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:36.247+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:39.273+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:40.512+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:41.217+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:41.719+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:43.389+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:46.482+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:49:55.147+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:11.678+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:13.577+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:18.172+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:19.311+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:20.854+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:21.382+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:22.110+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:24.145+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:27.206+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:27.784+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:28.629+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:29.991+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:32.455+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:33.200+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:34.073+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:34.709+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:35.599+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:36.924+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:37.570+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:39.333+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:42.745+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:44.820+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:46.140+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:50:50.781+0000 ERROR Unknown user failed to log in: org.neo4j.kernel.api.security.exception.InvalidAuthTokenException: Unsupported authentication token, missing key `principal`
+2020-04-15 04:55:24.308+0000 INFO  [neo4j]: logged in (password change required)
+2020-04-15 05:04:02.935+0000 INFO  [neo4j]: logged in (password change required)
+2020-04-15 05:04:05.981+0000 INFO  [neo4j]: ALTER CURRENT USER SET PASSWORD FROM $oldPw TO $newPw
+2020-04-15 05:04:07.176+0000 INFO  [neo4j]: logged in
+2020-04-15 05:04:09.377+0000 INFO  [neo4j]: logged in
+2020-04-15 05:04:09.397+0000 INFO  [neo4j]: logged in
+2020-04-15 05:04:09.398+0000 INFO  [neo4j]: logged in
+2020-04-15 05:04:09.408+0000 INFO  [neo4j]: logged in
+2020-04-15 06:04:09.608+0000 INFO  [neo4j]: logged in
+2020-04-15 06:10:49.835+0000 INFO  [neo4j]: logged in
+2020-06-22 01:47:56.801+0000 INFO  [neo4j]: logged in
+2020-06-22 01:48:13.290+0000 INFO  [neo4j]: logged in
+2020-06-22 01:48:13.319+0000 INFO  [neo4j]: logged in
+2020-06-22 01:48:13.322+0000 INFO  [neo4j]: logged in

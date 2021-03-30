@@ -1,0 +1,9 @@
+
+2021-03-29 01:40:36 Apache Commons Daemon procrun stdout initialized.
+2021-03-28 18:40:39.651+0000 INFO  ======== Neo4j 4.0.3 ========
+2021-03-28 18:40:39.765+0000 INFO  Starting...
+2021-03-28 18:40:59.522+0000 INFO  Sending metrics to CSV file at C:\neo4j-enterprise-4.0.3\metrics
+2021-03-28 18:40:59.572+0000 INFO  Bolt enabled on localhost:7687.
+2021-03-28 18:40:59.572+0000 INFO  Started.
+2021-03-28 18:41:00.390+0000 INFO  Server thread metrics have been registered successfully
+2021-03-28 18:41:02.650+0000 INFO  Remote interface available at http://localhost:7474/
